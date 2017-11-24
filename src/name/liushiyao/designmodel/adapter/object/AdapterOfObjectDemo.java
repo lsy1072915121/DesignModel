@@ -1,11 +1,12 @@
-package name.liushiyao.designmodel.adapter.对象适配器;
+package name.liushiyao.designmodel.adapter.object;
 
 /**
  * Created by 电子小孩 on 2017/3/8.
  */
 
-import name.liushiyao.designmodel.adapter.类适配器.Job;
-import name.liushiyao.designmodel.adapter.类适配器.Person;
+
+import name.liushiyao.designmodel.adapter.clazz.Job;
+import name.liushiyao.designmodel.adapter.clazz.Person;
 
 /**
  * 对象适配器
