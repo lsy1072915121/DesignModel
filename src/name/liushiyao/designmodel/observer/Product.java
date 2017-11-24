@@ -7,7 +7,7 @@ import java.util.Observable;
  */
 
 /**
- * 被观察者
+ * 被观察者(继承Observable，使用父类的setChanged方法和notifyObservers方法)
  */
 public class Product extends Observable {
 
